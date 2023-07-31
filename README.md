@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![VENKAT 4 2 AT 10 07 2023_page-0001](https://github.com/23000285/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138970859/182a7fc0-2f17-4828-88fb-3ce38b7d813a)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
